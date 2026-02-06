@@ -1,4 +1,4 @@
-🗂️ Boutique
+🗂️ Boutique 👜
 ## React E-Commerce Project
 
 
