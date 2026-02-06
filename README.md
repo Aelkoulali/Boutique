@@ -1,5 +1,8 @@
-🗂️ Boutique 👜
-## React E-Commerce Project
+# 🗂️ Boutique 👜
+## ➡️ Key Concepts :
+## ✅ React E-Commerce Project  
+## ✅ React + Vite
+## ✅ Responsive
 
 
 ###
