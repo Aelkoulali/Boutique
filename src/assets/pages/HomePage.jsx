@@ -1,3 +1,7 @@
+import './header.css';
+import './index.css';
+
+
 export function HomePage() {
     return (
         <>
