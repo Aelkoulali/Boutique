@@ -1,5 +1,5 @@
 function HomePage() {
-    retutn (
+    return (
         <>
         <div class="header">
       <div class="left-section">
