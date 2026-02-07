@@ -1,5 +1,5 @@
 import './header.css';
-import './index.css';
+import './HomePage.css';
 
 
 export function HomePage() {
