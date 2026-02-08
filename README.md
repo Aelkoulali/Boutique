@@ -2,7 +2,7 @@
 ## ➡️ Key Concepts :
 ## ✅ React E-Commerce Project  
 ## ✅ React + Vite
-## ✅ Responsive
+## ✅ React Router
 
 
 ###
