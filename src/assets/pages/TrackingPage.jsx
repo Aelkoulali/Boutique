@@ -1,4 +1,3 @@
-import { OrdersPage } from './OrdersPage';
 import './TrackingPage.css';
 
 
