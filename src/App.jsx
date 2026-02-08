@@ -1,11 +1,14 @@
 import { HomePage } from './assets/pages/HomePage';
+import { Routes, Route } from 'react-router';
 import './App.css'
 
-function App() {
-  
+function App() {  
 
   return (
-    <HomePage />
+    <Routes>
+      <Route path="/" element={<HomePage />}></Route>
+
+    </Routes>
   )
 }
 
