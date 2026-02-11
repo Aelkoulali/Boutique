@@ -1,10 +1,11 @@
-import { HomePage } from "./assets/pages/HomePage";
+
 import axios from "axios";
-import {useState, useEffect} from "react";
-import { CheckoutPage } from "./assets/pages/CheckoutPage";
-import { OrdersPage } from "./assets/pages/OrdersPage";
-import { TrackingPage } from "./assets/pages/TrackingPage";
 import { Routes, Route } from "react-router";
+import {useState, useEffect} from "react";
+import { HomePage } from "./assets/pages/home/HomePage";
+import { CheckoutPage } from "./assets/pages/checkout/CheckoutPage";
+import { OrdersPage } from "./assets/pages/Orders/OrdersPage";
+import { TrackingPage } from "./assets/pages/TrackingPage";
 import "./App.css";
 
 function App() {
