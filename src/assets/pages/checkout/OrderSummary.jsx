@@ -3,7 +3,7 @@ import { formatMoney } from "../../../utils/money";
 import { DeliveryOptions } from "./DeliveryOptions";
 
 
-export function OrderSummary(cart, deliveryOptions) {
+export function OrderSummary({cart, deliveryOptions}) {
   return (
     <div className="order-summary">
       {deliveryOptions?.length > 0 && cart.map((cartItem) => {
@@ -27,8 +27,7 @@ export function OrderSummary(cart, deliveryOptions) {
                 </div>
                 <div className="product-quantity">
                   <span>
-                    Quantity:{" "}
-                    <span className="quantity-label">{cartItem.quantity}</span>
+                    Quantity: <span className="quantity-label">{cartItem.quantity}</span>
                   </span>
                   <span className="update-quantity-link link-primary">
                     Update
@@ -38,6 +37,7 @@ export function OrderSummary(cart, deliveryOptions) {
                   </span>
                 </div>
               </div>
+
               <DeliveryOptions cartItem={cartItem} deliveryOptions={deliveryOptions} />
             </div>
           </div>
