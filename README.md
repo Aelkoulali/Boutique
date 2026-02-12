@@ -1,4 +1,4 @@
-# 🗂️ Boutique 👜
+# 🗂️ DStore 👜
 ## ➡️ Key Concepts :
 ## ✅ React E-Commerce Project  
 ## ✅ React + Vite
