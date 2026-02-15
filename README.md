@@ -1,7 +1,7 @@
 # 🗂️ Boutique 👜
 ## ➡️ Key Concepts :
 ## ✅ React E-Commerce Project  
-## ✅ React + Vite
+## ✅ React Project Setup
 ## ✅ React Router
 ## ✅ Backend + Data fetching + async await
 ## ✅ Data mutattion
