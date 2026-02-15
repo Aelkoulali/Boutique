@@ -6,7 +6,7 @@
 ## ✅ Backend + Data fetching + async await
 ## ✅ Data mutattion
 ## ✅ Automated Tests in React
-## ✅ Deploying + AWS
+## ✅ AWS Deployment
 ## ✅ React updtae + Typscript + Ai
  React + Vite
 
