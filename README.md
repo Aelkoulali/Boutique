@@ -6,8 +6,7 @@
 ## ✅ Backend + Data fetching + async await
 ## ✅ Data mutattion
 ## ✅ Automated Tests in React
-## ✅ AWS Deployment
-## ✅ React updtae + Typscript + Ai
+## ✅ React update + Typscript 
  React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
