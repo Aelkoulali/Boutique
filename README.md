@@ -1,13 +1,22 @@
 # 🗂️ Boutique 👜
+
 ## ➡️ Key Concepts :
-## ✅ React E-Commerce Project  
+
+## ✅ React E-Commerce Project
+
 ## ✅ React Project Setup
+
 ## ✅ React Router
+
 ## ✅ Backend + Data fetching + async await
+
 ## ✅ Data mutattion
+
 ## ✅ Automated Tests in React
-## ✅ React update + Typscript 
- React + Vite
+
+## ✅ React update + Typscript
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
