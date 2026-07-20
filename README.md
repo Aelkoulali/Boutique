@@ -30,24 +30,6 @@ Boutique is a React e-commerce app built with Vite. It supports browsing product
 ## Tests
 - `npm test` (or your exact test command)
 
-## ➡️ Key Concepts :
-
-## ✅ React E-Commerce Project
-
-## ✅ React Project Setup
-
-## ✅ React Router
-
-## ✅ Backend + Data fetching + async await
-
-## ✅ Data mutattion
-
-## ✅ Automated Tests in React
-
-## ✅ React update + Typscript
-
-React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
