@@ -1,7 +1,7 @@
 # 🗂️ Boutique 👜
 Boutique is a React e-commerce app built with Vite. It supports browsing products, filtering, viewing product details, and managing data with async fetching and mutations. It also includes automated tests.
 
-## Tech Stack
+## 🛠️ Tech Stack
 - React + Vite
 - React Router
 - TypeScript
@@ -9,7 +9,7 @@ Boutique is a React e-commerce app built with Vite. It supports browsing product
 - Data mutation (add/update actions)
 - Automated tests
 
-## Key Features
+## ✅ Key Features
 - Product browsing and routing
 - API data fetching with async/await
 - Mutations (cart/checkout/update flows — describe what exactly you do)
